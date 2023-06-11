@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DibakarDas9
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Web Development.
 - 📫 You can reach me thorugh my email dibakardas612@gmail.com
 
 <!---
